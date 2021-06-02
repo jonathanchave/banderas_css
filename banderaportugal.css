@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.verdeport{
+    background-color: rgb(5, 112, 5);
+    height: 641px;
+    width: 37%;
+    float: left;
+}
+.rojoport{
+background-color: red;
+height: 641px;
+width: 63%;
+float: right;
+margin-top: -602px;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+    height: 600px;
+    width: 1px;
+}
